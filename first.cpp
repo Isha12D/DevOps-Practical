@@ -6,5 +6,8 @@ int main(){
     int a = 8;
     int b = 9;
     cout<<"first sum is: "<<a+b<<endl;
+    a = 7;
+    b = 8;
+    cout<<"second sum is: "<<a+b<<endl;
     return 0;
 }
